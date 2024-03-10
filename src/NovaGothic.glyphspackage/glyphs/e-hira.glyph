@@ -1,0 +1,66 @@
+{
+export = 0;
+glyphname = "e-hira";
+layers = (
+{
+layerId = m01;
+width = 1000;
+},
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(337,648,l),
+(442,640,o),
+(672,601,o),
+(719,582,cs)
+);
+},
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(201,458,l),
+(761,458,l),
+(536,287,o),
+(327,72,o),
+(241,-55,c)
+);
+},
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(553,267,l),
+(572,174,o),
+(633,-23,o),
+(801,-23,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(905,516,l),
+(908,412,l),
+(753,399,l),
+(713,502,l)
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 12360;
+}

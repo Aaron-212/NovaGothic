@@ -1,0 +1,50 @@
+{
+glyphname = istroke;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (170,320);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = i;
+},
+{
+alignment = -1;
+pos = (-130,-340);
+ref = macroncomb;
+}
+);
+width = 340;
+},
+{
+anchors = (
+{
+name = top;
+pos = (200,270);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = i;
+},
+{
+alignment = -1;
+pos = (-100,-390);
+ref = macroncomb;
+}
+);
+width = 400;
+}
+);
+unicode = 616;
+}

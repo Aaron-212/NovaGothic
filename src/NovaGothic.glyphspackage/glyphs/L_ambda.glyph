@@ -1,0 +1,76 @@
+{
+glyphname = Lambda;
+layers = (
+{
+background = {
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(48,-11,l),
+(291,634,l),
+(552,-11,l)
+);
+}
+);
+};
+guides = (
+{
+angle = 90;
+pos = (580,0);
+},
+{
+angle = 90;
+pos = (20,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = Vturned;
+}
+);
+width = 600;
+},
+{
+background = {
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(48,-11,l),
+(291,634,l),
+(552,-11,l)
+);
+}
+);
+};
+guides = (
+{
+angle = 90;
+pos = (580,0);
+},
+{
+angle = 90;
+pos = (20,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = Vturned;
+}
+);
+width = 666;
+}
+);
+unicode = 923;
+}

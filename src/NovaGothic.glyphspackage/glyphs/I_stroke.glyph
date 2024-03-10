@@ -1,0 +1,52 @@
+{
+glyphname = Istroke;
+kernLeft = l2;
+kernRight = l2;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (165,410);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (-135,-250);
+ref = macroncomb;
+}
+);
+width = 330;
+},
+{
+anchors = (
+{
+name = top;
+pos = (165,410);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (-135,-250);
+ref = macroncomb;
+}
+);
+width = 330;
+}
+);
+unicode = 407;
+}

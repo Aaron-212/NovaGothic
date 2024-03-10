@@ -1,0 +1,28 @@
+{
+glyphname = commareversedmod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (390,670);
+ref = comma;
+scale = (-1,1);
+}
+);
+width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (420,640);
+ref = comma;
+scale = (-1,1);
+}
+);
+width = 600;
+}
+);
+unicode = 701;
+}

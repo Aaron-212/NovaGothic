@@ -1,0 +1,32 @@
+{
+glyphname = alphatonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (33,0);
+ref = tonos;
+}
+);
+width = 666;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (33,0);
+ref = tonos;
+}
+);
+width = 620;
+}
+);
+unicode = 940;
+}

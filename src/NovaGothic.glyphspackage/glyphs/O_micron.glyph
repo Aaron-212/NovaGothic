@@ -1,0 +1,36 @@
+{
+glyphname = Omicron;
+layers = (
+{
+anchors = (
+{
+name = topleft;
+pos = (80,500);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = O;
+}
+);
+width = 800;
+},
+{
+anchors = (
+{
+name = topleft;
+pos = (80,500);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = O;
+}
+);
+width = 800;
+}
+);
+unicode = 927;
+}

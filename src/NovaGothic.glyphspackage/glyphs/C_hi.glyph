@@ -1,0 +1,24 @@
+{
+glyphname = Chi;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = X;
+}
+);
+width = 614;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = X;
+}
+);
+width = 654;
+}
+);
+unicode = 935;
+}

@@ -1,0 +1,48 @@
+{
+glyphname = "Ii-cy";
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+pos = (580,0);
+},
+{
+name = top;
+pos = (300,620);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (600,0);
+ref = N;
+scale = (-1,1);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = bottomright;
+pos = (580,0);
+},
+{
+name = top;
+pos = (380,680);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (720,0);
+ref = N;
+scale = (-1,1);
+}
+);
+width = 720;
+}
+);
+unicode = 1048;
+}

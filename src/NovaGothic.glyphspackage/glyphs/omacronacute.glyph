@@ -1,0 +1,40 @@
+{
+glyphname = omacronacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (0,10);
+ref = macroncomb;
+},
+{
+pos = (-10,160);
+ref = acutecomb;
+}
+);
+width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (-1,20);
+ref = macroncomb;
+},
+{
+pos = (-11,220);
+ref = acutecomb;
+}
+);
+width = 598;
+}
+);
+unicode = 7763;
+}

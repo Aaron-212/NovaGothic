@@ -1,0 +1,43 @@
+{
+glyphname = .notdef;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 120;
+strokeWidth = 120;
+};
+closed = 1;
+nodes = (
+(134,60,l),
+(494,60,l),
+(494,640,l),
+(134,640,l)
+);
+}
+);
+width = 600;
+},
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 1;
+nodes = (
+(114,30,l),
+(514,30,l),
+(514,670,l),
+(114,670,l)
+);
+}
+);
+width = 600;
+}
+);
+}

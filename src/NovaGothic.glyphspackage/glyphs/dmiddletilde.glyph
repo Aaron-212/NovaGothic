@@ -1,0 +1,49 @@
+{
+glyphname = dmiddletilde;
+kernLeft = o;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (520,605);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+alignment = -1;
+pos = (220,40);
+ref = tildecomb;
+}
+);
+width = 720;
+},
+{
+anchors = (
+{
+name = top;
+pos = (520,605);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+alignment = -1;
+pos = (180,20);
+ref = tildecomb;
+}
+);
+width = 720;
+}
+);
+unicode = 7533;
+}

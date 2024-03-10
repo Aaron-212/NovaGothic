@@ -1,0 +1,69 @@
+{
+glyphname = Oopen;
+kernRight = O;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (304,0);
+},
+{
+name = top;
+pos = (308,690);
+}
+);
+guides = (
+{
+angle = 42;
+pos = (400,350);
+},
+{
+angle = -42;
+pos = (400,350);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (708,0);
+ref = C;
+scale = (-1,1);
+}
+);
+width = 708;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (316,0);
+},
+{
+name = top;
+pos = (316,690);
+}
+);
+guides = (
+{
+angle = 42;
+pos = (400,350);
+},
+{
+angle = -42;
+pos = (400,350);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (708,0);
+ref = C;
+scale = (-1,1);
+}
+);
+width = 708;
+}
+);
+unicode = 390;
+}

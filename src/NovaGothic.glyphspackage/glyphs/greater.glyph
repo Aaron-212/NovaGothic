@@ -1,0 +1,70 @@
+{
+glyphname = greater;
+layers = (
+{
+background = {
+shapes = (
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(124,90,l),
+(424,250,l),
+(124,410,l)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(400,250,l),
+(50,114,l),
+(50,50,l),
+(566,250,l),
+(50,450,l),
+(50,386,l)
+);
+}
+);
+width = 586;
+},
+{
+background = {
+shapes = (
+{
+attr = {
+strokeWidth = 120;
+};
+closed = 0;
+nodes = (
+(101,90,l),
+(441,250,l),
+(101,410,l)
+);
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(281,250,l),
+(50,150,l),
+(50,17,l),
+(552,250,l),
+(50,483,l),
+(50,350,l)
+);
+}
+);
+width = 572;
+}
+);
+unicode = 62;
+}

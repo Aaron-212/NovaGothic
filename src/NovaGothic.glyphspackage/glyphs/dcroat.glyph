@@ -1,0 +1,33 @@
+{
+glyphname = dcroat;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+pos = (190,380);
+ref = hyphen;
+}
+);
+width = 645;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = d;
+},
+{
+pos = (160,390);
+ref = hyphen;
+}
+);
+width = 649;
+}
+);
+unicode = 273;
+}

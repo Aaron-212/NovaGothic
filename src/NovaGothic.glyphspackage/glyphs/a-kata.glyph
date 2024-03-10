@@ -1,0 +1,44 @@
+{
+export = 0;
+glyphname = "a-kata";
+layers = (
+{
+layerId = m01;
+width = 1000;
+},
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(182,622,l),
+(822,622,l),
+(800,555,o),
+(740,426,o),
+(651,352,c)
+);
+},
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(501,532,l),
+(501,328,o),
+(451,103,o),
+(299,-58,cs)
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 12450;
+}

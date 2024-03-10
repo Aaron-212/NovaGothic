@@ -1,0 +1,38 @@
+{
+glyphname = oe;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+pos = (450,0);
+ref = e;
+}
+);
+width = 1050;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+pos = (394,0);
+ref = e;
+}
+);
+width = 984;
+}
+);
+metricLeft = "=|o";
+metricRight = "=|e";
+unicode = 339;
+}

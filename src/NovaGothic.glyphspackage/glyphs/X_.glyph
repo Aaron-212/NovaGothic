@@ -1,0 +1,104 @@
+{
+glyphname = X;
+layers = (
+{
+background = {
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(552,722,l),
+(62,-22,l)
+);
+},
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(62,722,l),
+(552,-22,l)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(271,350,l),
+(40,0,l),
+(113,0,l),
+(307,295,l),
+(501,0,l),
+(574,0,l),
+(343,350,l),
+(574,700,l),
+(501,700,l),
+(307,405,l),
+(113,700,l),
+(40,700,l)
+);
+}
+);
+width = 614;
+},
+{
+background = {
+shapes = (
+{
+attr = {
+strokeHeight = 120;
+strokeWidth = 120;
+};
+closed = 0;
+nodes = (
+(587,722,l),
+(67,-22,l)
+);
+},
+{
+attr = {
+strokeHeight = 120;
+strokeWidth = 120;
+};
+closed = 0;
+nodes = (
+(67,722,l),
+(587,-22,l)
+);
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(254,350,l),
+(10,0,l),
+(155,0,l),
+(327,245,l),
+(499,0,l),
+(644,0,l),
+(400,350,l),
+(644,700,l),
+(499,700,l),
+(327,455,l),
+(155,700,l),
+(10,700,l)
+);
+}
+);
+width = 654;
+}
+);
+unicode = 88;
+}

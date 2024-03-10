@@ -1,0 +1,63 @@
+{
+export = 0;
+glyphname = "a-hira";
+layers = (
+{
+layerId = m01;
+width = 1000;
+},
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(137,586,l),
+(349,586,o),
+(722,596,o),
+(878,623,c)
+);
+},
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(395,700,l),
+(350,440,o),
+(366,202,o),
+(452,15,cs)
+);
+},
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(705,467,l),
+(664,273,o),
+(527,-9,o),
+(374,-19,cs),
+(258,-26,o),
+(158,73,o),
+(210,227,cs),
+(304,508,o),
+(869,469,o),
+(828,163,cs),
+(810,27,o),
+(702,-19,o),
+(650,-26,cs)
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 12354;
+}

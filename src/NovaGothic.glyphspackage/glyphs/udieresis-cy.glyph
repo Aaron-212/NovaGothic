@@ -1,0 +1,24 @@
+{
+glyphname = "udieresis-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = ydieresis;
+}
+);
+width = 520;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = ydieresis;
+}
+);
+width = 533;
+}
+);
+unicode = 1265;
+}

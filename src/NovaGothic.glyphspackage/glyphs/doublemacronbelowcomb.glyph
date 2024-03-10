@@ -1,0 +1,36 @@
+{
+glyphname = doublemacronbelowcomb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-125,0);
+ref = macronbelowcomb;
+},
+{
+alignment = -1;
+pos = (125,0);
+ref = macronbelowcomb;
+}
+);
+width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (-160,30);
+ref = macronbelowcomb;
+},
+{
+alignment = -1;
+pos = (160,30);
+ref = macronbelowcomb;
+}
+);
+width = 600;
+}
+);
+unicode = 863;
+}

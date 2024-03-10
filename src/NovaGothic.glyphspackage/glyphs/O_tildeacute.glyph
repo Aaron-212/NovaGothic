@@ -1,0 +1,42 @@
+{
+glyphname = Otildeacute;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (100,200);
+ref = tildecomb;
+},
+{
+pos = (90,375);
+ref = acutecomb;
+}
+);
+width = 800;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (100,210);
+ref = tildecomb;
+},
+{
+pos = (90,425);
+ref = acutecomb;
+}
+);
+width = 800;
+}
+);
+unicode = 7756;
+}

@@ -1,0 +1,62 @@
+{
+export = 0;
+glyphname = "ka-hira";
+layers = (
+{
+layerId = m01;
+width = 1000;
+},
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(147,441,l),
+(301,513,o),
+(513,522,o),
+(605,460,cs),
+(684,407,o),
+(663,23,o),
+(583,-36,cs),
+(506,-93,o),
+(443,-64,o),
+(376,0,cs)
+);
+},
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(417,685,l),
+(393,422,o),
+(294,145,o),
+(143,-75,cs)
+);
+},
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(700,616,l),
+(764,575,o),
+(814,507,o),
+(830,441,cs)
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 12363;
+}

@@ -1,0 +1,67 @@
+{
+glyphname = zero.zero;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(419,500,l),
+(81,200,l),
+(161,200,l),
+(499,500,l)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(470,549,l),
+(81,204,l),
+(114,154,l),
+(499,496,l)
+);
+},
+{
+ref = zero;
+}
+);
+width = 580;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(429,500,l),
+(91,200,l),
+(171,200,l),
+(509,500,l)
+);
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(480,589,l),
+(91,244,l),
+(124,114,l),
+(509,456,l)
+);
+},
+{
+ref = zero;
+}
+);
+width = 600;
+}
+);
+}

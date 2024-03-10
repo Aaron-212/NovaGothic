@@ -1,0 +1,34 @@
+{
+glyphname = Oslashacute;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Oslash;
+},
+{
+pos = (90,200);
+ref = acutecomb;
+}
+);
+width = 800;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = Oslash;
+},
+{
+pos = (90,210);
+ref = acutecomb;
+}
+);
+width = 800;
+}
+);
+unicode = 510;
+}

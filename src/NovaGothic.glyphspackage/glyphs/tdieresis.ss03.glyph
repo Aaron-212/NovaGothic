@@ -1,0 +1,31 @@
+{
+glyphname = tdieresis.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = t.ss03;
+},
+{
+pos = (-140,210);
+ref = dieresiscomb;
+}
+);
+width = 330;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = t.ss03;
+},
+{
+pos = (-110,210);
+ref = dieresiscomb;
+}
+);
+width = 380;
+}
+);
+}

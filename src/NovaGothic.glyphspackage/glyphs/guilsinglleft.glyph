@@ -1,0 +1,70 @@
+{
+glyphname = guilsinglleft;
+layers = (
+{
+background = {
+shapes = (
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(372,0,l),
+(122,250,l),
+(372,500,l)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(80,250,l),
+(330,0,l),
+(414,0,l),
+(164,250,l),
+(414,500,l),
+(330,500,l)
+);
+}
+);
+width = 454;
+},
+{
+background = {
+shapes = (
+{
+attr = {
+strokeWidth = 120;
+};
+closed = 0;
+nodes = (
+(415,0,l),
+(165,250,l),
+(415,500,l)
+);
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(80,250,l),
+(330,0,l),
+(500,0,l),
+(250,250,l),
+(500,500,l),
+(330,500,l)
+);
+}
+);
+width = 540;
+}
+);
+unicode = 8249;
+}

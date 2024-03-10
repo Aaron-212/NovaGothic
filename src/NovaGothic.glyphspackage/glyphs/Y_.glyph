@@ -1,0 +1,138 @@
+{
+glyphname = Y;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (320,0);
+},
+{
+name = top;
+pos = (320,660);
+},
+{
+name = topleft;
+pos = (20,700);
+}
+);
+background = {
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(44,718,l),
+(320,340,l),
+(596,718,l)
+);
+}
+);
+};
+guides = (
+{
+angle = 90;
+pos = (20,0);
+},
+{
+angle = 90;
+pos = (620,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(320,390.874,l),
+(94,700,l),
+(19.771,700.309,l),
+(320,289.126,l),
+(620.229,700.309,l),
+(546,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(290,0,l),
+(350,0,l),
+(350,382,l),
+(290,382,l)
+);
+}
+);
+width = 640;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (356,0);
+},
+{
+name = top;
+pos = (356,690);
+},
+{
+name = topleft;
+pos = (56,700);
+}
+);
+background = {
+shapes = (
+{
+attr = {
+strokeHeight = 120;
+strokeWidth = 120;
+};
+closed = 0;
+nodes = (
+(80,718,l),
+(356,340,l),
+(632,718,l)
+);
+}
+);
+};
+guides = (
+{
+angle = 90;
+pos = (56,0);
+},
+{
+angle = 90;
+pos = (656,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(356,442,l),
+(167,700,l),
+(20,700,l),
+(356,238,l),
+(692,700,l),
+(545,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(296,0,l),
+(416,0,l),
+(416,382,l),
+(296,382,l)
+);
+}
+);
+width = 712;
+}
+);
+unicode = 89;
+}

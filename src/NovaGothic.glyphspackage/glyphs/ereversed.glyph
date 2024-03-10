@@ -1,0 +1,29 @@
+{
+glyphname = ereversed;
+kernRight = o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (600,0);
+ref = e;
+scale = (-1,1);
+}
+);
+width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (590,0);
+ref = e;
+scale = (-1,1);
+}
+);
+width = 590;
+}
+);
+unicode = 600;
+}

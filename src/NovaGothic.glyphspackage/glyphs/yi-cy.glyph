@@ -1,0 +1,32 @@
+{
+glyphname = "yi-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-190,0);
+ref = dieresiscomb;
+}
+);
+width = 220;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-160,10);
+ref = dieresiscomb;
+}
+);
+width = 280;
+}
+);
+unicode = 1111;
+}

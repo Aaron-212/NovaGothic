@@ -1,0 +1,32 @@
+{
+glyphname = Odotbelow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (100,0);
+ref = dotbelowcomb;
+}
+);
+width = 800;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (100,0);
+ref = dotbelowcomb;
+}
+);
+width = 800;
+}
+);
+unicode = 7884;
+}

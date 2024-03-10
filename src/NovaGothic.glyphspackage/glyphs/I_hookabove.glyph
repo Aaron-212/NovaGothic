@@ -1,0 +1,32 @@
+{
+glyphname = Ihookabove;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-205,200);
+ref = hookabovecomb;
+}
+);
+width = 220;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-205,200);
+ref = hookabovecomb;
+}
+);
+width = 240;
+}
+);
+unicode = 7880;
+}

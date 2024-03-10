@@ -1,0 +1,46 @@
+{
+export = 0;
+glyphname = "i-hira";
+layers = (
+{
+layerId = m01;
+width = 1000;
+},
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(269,643,l),
+(145,386,o),
+(177,25,o),
+(324,25,cs),
+(397,25,o),
+(426,83,o),
+(437,142,cs)
+);
+},
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(671,596,l),
+(775,451,o),
+(824,236,o),
+(752,67,cs)
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 12356;
+}

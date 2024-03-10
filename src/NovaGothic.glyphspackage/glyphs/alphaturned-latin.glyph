@@ -1,0 +1,29 @@
+{
+glyphname = "alphaturned-latin";
+kernRight = o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (666,500);
+ref = "alpha-latin";
+}
+);
+width = 666;
+},
+{
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (620,500);
+ref = "alpha-latin";
+}
+);
+width = 620;
+}
+);
+unicode = 594;
+}

@@ -1,0 +1,34 @@
+{
+glyphname = dollar;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (190,50);
+ref = bar;
+}
+);
+width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (4,0);
+ref = S;
+},
+{
+pos = (160,50);
+ref = bar;
+}
+);
+width = 600;
+}
+);
+unicode = 36;
+}

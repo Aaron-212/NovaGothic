@@ -1,0 +1,25 @@
+{
+glyphname = schwa;
+kernRight = o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = eturned;
+}
+);
+width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = eturned;
+}
+);
+width = 590;
+}
+);
+unicode = 601;
+}

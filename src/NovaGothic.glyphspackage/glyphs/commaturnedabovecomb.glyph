@@ -1,0 +1,26 @@
+{
+glyphname = commaturnedabovecomb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (210,0);
+ref = quoteleft;
+}
+);
+width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (180,0);
+ref = quoteleft;
+}
+);
+width = 600;
+}
+);
+unicode = 786;
+}

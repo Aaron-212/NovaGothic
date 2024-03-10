@@ -1,0 +1,37 @@
+{
+export = 0;
+glyphname = connector;
+kernRight = cnt;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-90,440,l),
+(30,440,l),
+(30,500,l),
+(-90,500,l)
+);
+}
+);
+width = 0;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-120,380,l),
+(60,380,l),
+(60,500,l),
+(-120,500,l)
+);
+}
+);
+width = 0;
+}
+);
+}

@@ -1,0 +1,80 @@
+{
+glyphname = ringcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (300,500);
+},
+{
+name = top;
+pos = (300,700);
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+strokeHeight = 50;
+strokeWidth = 50;
+};
+closed = 1;
+nodes = (
+(336,535,o),
+(365,564,o),
+(365,600,cs),
+(365,636,o),
+(336,665,o),
+(300,665,cs),
+(264,665,o),
+(235,636,o),
+(235,600,cs),
+(235,564,o),
+(264,535,o),
+(300,535,cs)
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (300,500);
+},
+{
+name = top;
+pos = (300,755);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 70;
+strokeWidth = 70;
+};
+closed = 1;
+nodes = (
+(344,546,o),
+(380,582,o),
+(380,626,cs),
+(380,670,o),
+(344,706,o),
+(300,706,cs),
+(256,706,o),
+(220,670,o),
+(220,626,cs),
+(220,582,o),
+(256,546,o),
+(300,546,cs)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 778;
+}

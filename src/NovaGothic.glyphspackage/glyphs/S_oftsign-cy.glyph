@@ -1,0 +1,28 @@
+{
+glyphname = "Softsign-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,700);
+ref = P;
+scale = (1,-1);
+}
+);
+width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (0,700);
+ref = P;
+scale = (1,-1);
+}
+);
+width = 630;
+}
+);
+unicode = 1068;
+}

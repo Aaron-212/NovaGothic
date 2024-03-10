@@ -1,0 +1,24 @@
+{
+glyphname = "Iota-latin";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Iota;
+}
+);
+width = 200;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = Iota;
+}
+);
+width = 230;
+}
+);
+unicode = 406;
+}

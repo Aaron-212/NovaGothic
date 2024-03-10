@@ -1,0 +1,24 @@
+{
+glyphname = Kappa;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = K;
+}
+);
+width = 622;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = K;
+}
+);
+width = 705;
+}
+);
+unicode = 922;
+}

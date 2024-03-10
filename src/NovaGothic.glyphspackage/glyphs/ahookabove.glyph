@@ -1,0 +1,32 @@
+{
+glyphname = ahookabove;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (-20,10);
+ref = hookabovecomb;
+}
+);
+width = 630;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (-25,20);
+ref = hookabovecomb;
+}
+);
+width = 619;
+}
+);
+unicode = 7843;
+}

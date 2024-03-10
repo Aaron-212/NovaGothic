@@ -1,0 +1,42 @@
+{
+glyphname = notequal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = equal;
+},
+{
+closed = 1;
+nodes = (
+(105,60,l),
+(185,60,l),
+(415,440,l),
+(335,440,l)
+);
+}
+);
+width = 520;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = equal;
+},
+{
+closed = 1;
+nodes = (
+(85,40,l),
+(225,40,l),
+(515,460,l),
+(375,460,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 8800;
+}

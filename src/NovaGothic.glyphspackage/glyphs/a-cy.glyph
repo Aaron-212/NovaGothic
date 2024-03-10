@@ -1,0 +1,24 @@
+{
+glyphname = "a-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a;
+}
+);
+width = 630;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = a;
+}
+);
+width = 619;
+}
+);
+unicode = 1072;
+}

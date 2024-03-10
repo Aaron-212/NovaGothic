@@ -1,0 +1,36 @@
+{
+glyphname = periodcentered;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,290,l),
+(120,290,l),
+(120,350,l),
+(60,350,l)
+);
+}
+);
+width = 180;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,265,l),
+(150,265,l),
+(150,375,l),
+(40,375,l)
+);
+}
+);
+width = 190;
+}
+);
+unicode = 183;
+}

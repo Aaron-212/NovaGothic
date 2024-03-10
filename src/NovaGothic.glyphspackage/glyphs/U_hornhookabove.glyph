@@ -1,0 +1,32 @@
+{
+glyphname = Uhornhookabove;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (-15,200);
+ref = hookabovecomb;
+}
+);
+width = 690;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (15,190);
+ref = hookabovecomb;
+}
+);
+width = 830;
+}
+);
+unicode = 7916;
+}

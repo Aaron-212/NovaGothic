@@ -1,0 +1,32 @@
+{
+glyphname = Ncircumflexbelow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (0,38);
+ref = circumflexbelowcomb;
+}
+);
+width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (60,40);
+ref = circumflexbelowcomb;
+}
+);
+width = 720;
+}
+);
+unicode = 7754;
+}

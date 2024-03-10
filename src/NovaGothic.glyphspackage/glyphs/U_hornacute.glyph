@@ -1,0 +1,32 @@
+{
+glyphname = Uhornacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (-10,200);
+ref = acutecomb;
+}
+);
+width = 690;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (30,190);
+ref = acutecomb;
+}
+);
+width = 830;
+}
+);
+unicode = 7912;
+}

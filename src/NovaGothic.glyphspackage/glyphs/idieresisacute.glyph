@@ -1,0 +1,40 @@
+{
+glyphname = idieresisacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-190,0);
+ref = dieresiscomb;
+},
+{
+pos = (-200,170);
+ref = acutecomb;
+}
+);
+width = 220;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-160,10);
+ref = dieresiscomb;
+},
+{
+pos = (-170,240);
+ref = acutecomb;
+}
+);
+width = 280;
+}
+);
+unicode = 7727;
+}

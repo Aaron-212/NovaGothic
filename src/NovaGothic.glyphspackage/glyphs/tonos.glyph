@@ -1,0 +1,44 @@
+{
+glyphname = tonos;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (300,500);
+},
+{
+name = _topleft;
+pos = (600,500);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = acutecomb;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (300,500);
+},
+{
+name = _topleft;
+pos = (600,500);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = acutecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 900;
+}

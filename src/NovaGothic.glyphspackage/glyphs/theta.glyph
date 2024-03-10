@@ -1,0 +1,43 @@
+{
+glyphname = theta;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = zero;
+},
+{
+closed = 1;
+nodes = (
+(100,380,l),
+(100,320,l),
+(480,320,l),
+(480,380,l)
+);
+}
+);
+width = 580;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = zero;
+},
+{
+closed = 1;
+nodes = (
+(120,410,l),
+(120,290,l),
+(480,290,l),
+(480,410,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 952;
+}

@@ -1,0 +1,72 @@
+{
+glyphname = seven;
+layers = (
+{
+background = {
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(61,670,l),
+(481,670,l),
+(131,0,l)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(530,700,l),
+(60,700,l),
+(60,640,l),
+(430,640,l),
+(96,0,l),
+(164,0,l)
+);
+}
+);
+width = 550;
+},
+{
+background = {
+shapes = (
+{
+attr = {
+strokeHeight = 120;
+strokeWidth = 120;
+};
+closed = 0;
+nodes = (
+(70,640,l),
+(490,640,l),
+(130,0,l)
+);
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(593,700,l),
+(50,700,l),
+(50,580,l),
+(387,580,l),
+(62,0,l),
+(198,0,l)
+);
+}
+);
+width = 613;
+}
+);
+unicode = 55;
+}

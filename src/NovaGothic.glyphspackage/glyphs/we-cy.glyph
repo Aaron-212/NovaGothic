@@ -1,0 +1,80 @@
+{
+glyphname = "we-cy";
+layers = (
+{
+background = {
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(49,507,l),
+(170,76,l),
+(320,438,l),
+(470,76,l),
+(591,507,l)
+);
+}
+);
+};
+guides = (
+{
+angle = 90;
+pos = (20,0);
+},
+{
+angle = 90;
+pos = (620,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = w;
+}
+);
+width = 640;
+},
+{
+background = {
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(49,507,l),
+(170,76,l),
+(320,438,l),
+(470,76,l),
+(591,507,l)
+);
+}
+);
+};
+guides = (
+{
+angle = 90;
+pos = (20,0);
+},
+{
+angle = 90;
+pos = (620,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = w;
+}
+);
+width = 746;
+}
+);
+unicode = 1309;
+}

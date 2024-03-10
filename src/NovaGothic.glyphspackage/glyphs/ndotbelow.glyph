@@ -1,0 +1,32 @@
+{
+glyphname = ndotbelow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (0,50);
+ref = dotbelowcomb;
+}
+);
+width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (9,20);
+ref = dotbelowcomb;
+}
+);
+width = 615;
+}
+);
+unicode = 7751;
+}

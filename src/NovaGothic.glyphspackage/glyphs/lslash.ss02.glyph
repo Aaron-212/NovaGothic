@@ -1,0 +1,43 @@
+{
+glyphname = lslash.ss02;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (80,0);
+ref = l.ss02;
+},
+{
+closed = 1;
+nodes = (
+(20,264,l),
+(275,464,l),
+(275,544,l),
+(20,344,l)
+);
+}
+);
+width = 295;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (50,0);
+ref = l.ss02;
+},
+{
+closed = 1;
+nodes = (
+(20,234,l),
+(275,434,l),
+(275,574,l),
+(20,374,l)
+);
+}
+);
+width = 295;
+}
+);
+}

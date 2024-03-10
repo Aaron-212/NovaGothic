@@ -1,0 +1,33 @@
+{
+glyphname = circumflexcomb_hookabovecomb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = circumflexcomb;
+},
+{
+alignment = -1;
+pos = (5,150);
+ref = hookabovecomb;
+}
+);
+width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = circumflexcomb;
+},
+{
+alignment = -1;
+pos = (15,190);
+ref = hookabovecomb;
+}
+);
+width = 600;
+}
+);
+}

@@ -1,0 +1,96 @@
+{
+glyphname = Upsilon;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (320,660);
+},
+{
+name = topleft;
+pos = (-48,500);
+}
+);
+background = {
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(44,718,l),
+(320,340,l),
+(596,718,l)
+);
+}
+);
+};
+guides = (
+{
+angle = 90;
+pos = (20,0);
+},
+{
+angle = 90;
+pos = (620,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = Y;
+}
+);
+width = 640;
+},
+{
+anchors = (
+{
+name = top;
+pos = (356,670);
+},
+{
+name = topleft;
+pos = (-48,500);
+}
+);
+background = {
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(44,718,l),
+(320,340,l),
+(596,718,l)
+);
+}
+);
+};
+guides = (
+{
+angle = 90;
+pos = (20,0);
+},
+{
+angle = 90;
+pos = (620,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = Y;
+}
+);
+width = 712;
+}
+);
+unicode = 933;
+}

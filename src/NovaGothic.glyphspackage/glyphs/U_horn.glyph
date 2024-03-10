@@ -1,0 +1,34 @@
+{
+glyphname = Uhorn;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+pos = (189,70);
+ref = horncomb;
+}
+);
+width = 690;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+pos = (300,80);
+ref = horncomb;
+}
+);
+width = 830;
+}
+);
+unicode = 431;
+}

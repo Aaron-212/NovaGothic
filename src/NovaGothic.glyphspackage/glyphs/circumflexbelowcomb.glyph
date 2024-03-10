@@ -1,0 +1,46 @@
+{
+glyphname = circumflexbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (300,42);
+},
+{
+name = bottom;
+pos = (300,-158);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (0,-728);
+ref = circumflexcomb;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (300,0);
+},
+{
+name = bottom;
+pos = (300,-200);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (0,-760);
+ref = circumflexcomb;
+}
+);
+width = 600;
+}
+);
+unicode = 813;
+}

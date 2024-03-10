@@ -1,0 +1,32 @@
+{
+glyphname = Tcircumflexbelow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (-20,-42);
+ref = circumflexbelowcomb;
+}
+);
+width = 560;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (-20,0);
+ref = circumflexbelowcomb;
+}
+);
+width = 560;
+}
+);
+unicode = 7792;
+}

@@ -1,0 +1,36 @@
+{
+glyphname = euro;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (80,0);
+ref = C;
+},
+{
+pos = (-50,100);
+ref = equal;
+}
+);
+width = 788;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (80,0);
+ref = C;
+},
+{
+pos = (-50,100);
+ref = equal;
+}
+);
+width = 699;
+}
+);
+unicode = 8364;
+}

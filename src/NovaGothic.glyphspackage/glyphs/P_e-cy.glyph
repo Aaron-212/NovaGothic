@@ -1,0 +1,24 @@
+{
+glyphname = "Pe-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Pi;
+}
+);
+width = 640;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = Pi;
+}
+);
+width = 700;
+}
+);
+unicode = 1055;
+}

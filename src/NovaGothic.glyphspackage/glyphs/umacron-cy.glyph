@@ -1,0 +1,24 @@
+{
+glyphname = "umacron-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = ymacron;
+}
+);
+width = 520;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = ymacron;
+}
+);
+width = 533;
+}
+);
+unicode = 1263;
+}

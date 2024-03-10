@@ -1,0 +1,24 @@
+{
+glyphname = Dtail;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 680;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 710;
+}
+);
+unicode = 393;
+}

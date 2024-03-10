@@ -1,0 +1,46 @@
+{
+glyphname = dieresisbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (300,0);
+},
+{
+name = bottom;
+pos = (300,-160);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (0,-700);
+ref = dieresiscomb;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (300,0);
+},
+{
+name = bottom;
+pos = (300,-220);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (0,-750);
+ref = dieresiscomb;
+}
+);
+width = 600;
+}
+);
+unicode = 804;
+}

@@ -1,0 +1,48 @@
+{
+glyphname = "Ya-cy";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (300,640);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (600,0);
+ref = R;
+scale = (-1,1);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (300,640);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (610,0);
+ref = R;
+scale = (-1,1);
+}
+);
+width = 610;
+}
+);
+unicode = 1071;
+}

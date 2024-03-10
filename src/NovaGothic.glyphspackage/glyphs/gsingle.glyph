@@ -1,0 +1,24 @@
+{
+glyphname = gsingle;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = g;
+}
+);
+width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = g;
+}
+);
+width = 619;
+}
+);
+unicode = 609;
+}

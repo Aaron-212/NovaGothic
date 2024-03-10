@@ -1,0 +1,33 @@
+{
+glyphname = Lcommaaccent;
+kernLeft = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (15,0);
+ref = commaaccentcomb;
+}
+);
+width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (25,0);
+ref = commaaccentcomb;
+}
+);
+width = 570;
+}
+);
+unicode = 315;
+}

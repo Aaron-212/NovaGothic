@@ -1,0 +1,42 @@
+{
+glyphname = oopen;
+kernLeft = o;
+kernRight = c;
+layers = (
+{
+guides = (
+{
+angle = 42;
+pos = (300,250);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (534,0);
+ref = c;
+scale = (-1,1);
+}
+);
+width = 534;
+},
+{
+guides = (
+{
+angle = 42;
+pos = (300,250);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (505,0);
+ref = c;
+scale = (-1,1);
+}
+);
+width = 505;
+}
+);
+unicode = 596;
+}

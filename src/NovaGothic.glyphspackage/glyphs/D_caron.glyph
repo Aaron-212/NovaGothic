@@ -1,0 +1,32 @@
+{
+glyphname = Dcaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = D;
+},
+{
+pos = (0,200);
+ref = caroncomb;
+}
+);
+width = 660;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = D;
+},
+{
+pos = (0,210);
+ref = caroncomb;
+}
+);
+width = 690;
+}
+);
+unicode = 270;
+}

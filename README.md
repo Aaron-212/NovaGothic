@@ -1,7 +1,5 @@
 # Nova Gothic
 
-First realease Version 1.000 is on the way!
-
 Nova Gothic is a geomtric sans-seif font, with a variable Weight axe.
 
 ![Nova Gothic Banner](misc/images/banner.png)
@@ -25,6 +23,14 @@ Extra seriffed uppercase `I`, tailed lowercase `l` and `t` available in Stylitic
 Slashed zero available.
 
 Automatically centered colon in time with Context Alternatives (calt) enabled.
+
+## Installation
+
+Go to Nova Gothic's release page [here](https://github.com/Aaron-212/NovaGothic/releases). Download and extract the zip archive.
+
+The archive contains two folders: Static and Variable. Static contains 4 OTFs with different weights, while Variable only contains one variable TTF. Select what you need, and install.
+
+For macOS users, a brew installation command is upcoming.
 
 ## Roadmap
 

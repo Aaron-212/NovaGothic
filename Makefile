@@ -7,18 +7,14 @@ help:
 	@echo "  make zip:  Zip static fonts into a zip"
 	@echo
 
-venv: venv/touchfile
-
 build: build.stamp
 
-build.stamp: venv
-	. venv/bin/activate
+build.stamp: init.stamp
 	fontmake -f src/NovaGothic.glyphspackage -o variable --output-dir fonts/variable && fontmake -i -f src/NovaGothic.glyphspackage -o otf --output-dir fonts/static && touch build.stamp
 
-venv/touchfile: requirements.txt
-	python3 -m venv venv
-	. venv/bin/activate; pip install -Ur requirements.txt
-	touch venv/touchfile
+init: requirements.txt
+	pip install -Ur requirements.txt
+	touch init.stamp
 
 zip: build.stamp
 	cp -rf fonts NovaGothic

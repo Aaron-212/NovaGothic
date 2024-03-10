@@ -17,7 +17,7 @@ on:
       - requirements.txt
       - version.txt
     tags:
-      - "v*-*"
+      - "v*"
   pull_request:
     branches: [main]
     paths:

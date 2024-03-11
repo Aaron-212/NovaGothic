@@ -1,11 +1,11 @@
 {
-glyphname = commaaccentcomb.loclMAH;
+glyphname = Sigma;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-ref = cedillacomb;
+ref = Esh;
 }
 );
 width = 600;
@@ -14,10 +14,11 @@ width = 600;
 layerId = m002;
 shapes = (
 {
-ref = cedillacomb;
+ref = Esh;
 }
 );
-width = 600;
+width = 590;
 }
 );
+unicode = 931;
 }

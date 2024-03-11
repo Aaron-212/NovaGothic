@@ -4,8 +4,8 @@ layers = (
 {
 anchors = (
 {
-name = topleft;
-pos = (487,500);
+name = top;
+pos = (120,500);
 }
 );
 layerId = m01;
@@ -19,8 +19,8 @@ width = 600;
 {
 anchors = (
 {
-name = topleft;
-pos = (487,500);
+name = top;
+pos = (135,500);
 }
 );
 layerId = m002;

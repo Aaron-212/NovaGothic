@@ -1,0 +1,38 @@
+{
+glyphname = Iotatonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (180,0);
+ref = Iota;
+},
+{
+alignment = -1;
+pos = (-220,0);
+ref = tonos;
+}
+);
+width = 380;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (235,0);
+ref = Iota;
+},
+{
+alignment = -1;
+pos = (-175,0);
+ref = tonos;
+}
+);
+width = 465;
+}
+);
+unicode = 906;
+}

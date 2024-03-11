@@ -33,6 +33,8 @@ The archive contains two folders: Static and Variable. Static contains 4 OTFs wi
 
 For macOS users, a brew installation command is upcoming.
 
+Nightly builds available in the actions' artifacts.
+
 ## Roadmap
 
 ### Known Issues
@@ -43,7 +45,7 @@ For macOS users, a brew installation command is upcoming.
 
 ### Undergoing
 
-- Full Latin support, including African languages and IPA
+- Full Latin support, including African languages
 - Greek alphabets
 - Cyrillic alphabets
 
@@ -54,6 +56,8 @@ For macOS users, a brew installation command is upcoming.
 
 ### Pending
 
+- Full IPA support
+- Double storey `a` and `g`
 - Fractions
 - "Infinite" ligature between `i`, `j`, `l`, `t` and `f` (inspired by Outfit)
 - Japanese Hinas and Kanas

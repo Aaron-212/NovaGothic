@@ -1,0 +1,50 @@
+{
+glyphname = lzdigraph;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (220,0);
+ref = z;
+},
+{
+closed = 1;
+nodes = (
+(140,440,l),
+(273,440,l),
+(273,500,l),
+(140,500,l)
+);
+}
+);
+width = 730;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (280,0);
+ref = z;
+},
+{
+closed = 1;
+nodes = (
+(200,380,l),
+(333,380,l),
+(333,500,l),
+(200,500,l)
+);
+}
+);
+width = 790;
+}
+);
+unicode = 683;
+}

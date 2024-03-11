@@ -1,0 +1,36 @@
+{
+export = 0;
+glyphname = "hamza-ar";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(448,355,l),
+(311,380,o),
+(201,311,o),
+(203,236,cs),
+(205,148,o),
+(350,95,o),
+(459,128,c),
+(350,95,o),
+(214,86,o),
+(126,86,cs)
+);
+}
+);
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 1569;
+}

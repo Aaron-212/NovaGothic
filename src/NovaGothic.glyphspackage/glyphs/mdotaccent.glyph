@@ -8,7 +8,7 @@ shapes = (
 ref = m;
 },
 {
-pos = (180,-20);
+pos = (180,-10);
 ref = dotaccentcomb;
 }
 );

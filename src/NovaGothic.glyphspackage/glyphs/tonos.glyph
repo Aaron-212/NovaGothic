@@ -9,7 +9,7 @@ pos = (300,500);
 },
 {
 name = _topleft;
-pos = (600,500);
+pos = (430,600);
 }
 );
 layerId = m01;
@@ -28,7 +28,7 @@ pos = (300,500);
 },
 {
 name = _topleft;
-pos = (600,500);
+pos = (430,600);
 }
 );
 layerId = m002;

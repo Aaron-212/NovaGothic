@@ -1,0 +1,38 @@
+{
+glyphname = Upsilontonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (180,0);
+ref = Upsilon;
+},
+{
+alignment = -1;
+pos = (-220,0);
+ref = tonos;
+}
+);
+width = 820;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (230,0);
+ref = Upsilon;
+},
+{
+alignment = -1;
+pos = (-175,0);
+ref = tonos;
+}
+);
+width = 942;
+}
+);
+unicode = 910;
+}

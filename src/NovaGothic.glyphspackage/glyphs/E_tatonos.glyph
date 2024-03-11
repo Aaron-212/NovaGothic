@@ -1,0 +1,36 @@
+{
+glyphname = Etatonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (130,0);
+ref = Eta;
+},
+{
+pos = (-220,0);
+ref = tonos;
+}
+);
+width = 770;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (225,0);
+ref = Eta;
+},
+{
+pos = (-175,0);
+ref = tonos;
+}
+);
+width = 885;
+}
+);
+unicode = 905;
+}

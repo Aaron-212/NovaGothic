@@ -8,8 +8,8 @@ shapes = (
 ref = N;
 },
 {
-pos = (15,80);
-ref = commaaccentcomb;
+pos = (3,80);
+ref = commaaccentcomb.loclMAH;
 }
 );
 width = 600;
@@ -21,8 +21,8 @@ shapes = (
 ref = N;
 },
 {
-pos = (75,40);
-ref = commaaccentcomb;
+pos = (63,40);
+ref = commaaccentcomb.loclMAH;
 }
 );
 width = 720;

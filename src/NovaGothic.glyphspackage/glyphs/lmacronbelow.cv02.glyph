@@ -1,5 +1,5 @@
 {
-glyphname = ldotbelow.ss02;
+glyphname = lmacronbelow.cv02;
 kernLeft = l2;
 kernRight = l2;
 layers = (
@@ -7,11 +7,11 @@ layers = (
 layerId = m01;
 shapes = (
 {
-ref = l.ss02;
+ref = l.cv02;
 },
 {
 pos = (-200,0);
-ref = dotbelowcomb;
+ref = macronbelowcomb;
 }
 );
 width = 200;
@@ -20,11 +20,11 @@ width = 200;
 layerId = m002;
 shapes = (
 {
-ref = l.ss02;
+ref = l.cv02;
 },
 {
 pos = (-170,0);
-ref = dotbelowcomb;
+ref = macronbelowcomb;
 }
 );
 width = 230;

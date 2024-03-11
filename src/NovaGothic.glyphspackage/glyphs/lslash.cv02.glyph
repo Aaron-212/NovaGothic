@@ -1,12 +1,12 @@
 {
-glyphname = lslash.ss02;
+glyphname = lslash.cv02;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
 pos = (80,0);
-ref = l.ss02;
+ref = l.cv02;
 },
 {
 closed = 1;
@@ -25,7 +25,7 @@ layerId = m002;
 shapes = (
 {
 pos = (50,0);
-ref = l.ss02;
+ref = l.cv02;
 },
 {
 closed = 1;

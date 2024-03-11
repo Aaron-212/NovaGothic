@@ -18,11 +18,12 @@ Greek and Cyrillic are on the way.
 
 ## OpenType Features
 
-Extra seriffed uppercase `I`, tailed lowercase `l` and `t` available in Stylitic Sets (ss01, ss02, ss03).
-
-Slashed zero available.
-
-Automatically centered colon in time with Context Alternatives (calt) enabled.
+- calt: Centered Colon (auto)
+- cv01: Seriffed uppercase `I`
+- cv02: Tailed lowercase `l`
+- cv03: Tailed lowercase `t`
+- cv04: Centered Colon (overrides calt)
+- zero: Slashed Zero
 
 ## Installation
 
@@ -38,22 +39,25 @@ For macOS users, a brew installation command is upcoming.
 
 - Both uppercase and lowercase `S` look a bit ugly
 - Bad sidebearing for certain glyphs
-- Not enough Kernings
+- Not enough Kerning Pairs
 
 ### Undergoing
 
 - Full Latin support, including African languages and IPA
 - Greek alphabets
 - Cyrillic alphabets
-- Fractions
 
 ### Upcoming
 
 - Arabic alphabet
 - Arabic ligatures
-- "Infinite" ligature between `i`, `j`, `l`, `t` and `f` (inspired by Outfit) ?
-- Japanese Hinas and Kanas ?
-- Korean Hanguls ?
-- CJK Ideographs ?
+
+### Pending
+
+- Fractions
+- "Infinite" ligature between `i`, `j`, `l`, `t` and `f` (inspired by Outfit)
+- Japanese Hinas and Kanas
+- Korean Hanguls
+- CJK Ideographs
 
 Feel free to create an Issue or Pull Request if you want to give suggestions or improve the font.

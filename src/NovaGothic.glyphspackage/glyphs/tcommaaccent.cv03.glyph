@@ -1,11 +1,11 @@
 {
-glyphname = tcommaaccent.ss03;
+glyphname = tcommaaccent.cv03;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-ref = t.ss03;
+ref = t.cv03;
 },
 {
 pos = (-103,0);
@@ -18,7 +18,7 @@ width = 330;
 layerId = m002;
 shapes = (
 {
-ref = t.ss03;
+ref = t.cv03;
 },
 {
 pos = (-66,0);

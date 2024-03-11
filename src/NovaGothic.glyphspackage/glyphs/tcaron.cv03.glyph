@@ -1,32 +1,31 @@
 {
-glyphname = kcaron;
+glyphname = tcaron.cv03;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-ref = k;
+ref = t.cv03;
 },
 {
-pos = (-180,310);
+pos = (-140,210);
 ref = caroncomb;
 }
 );
-width = 543;
+width = 330;
 },
 {
 layerId = m002;
 shapes = (
 {
-ref = k;
+ref = t.cv03;
 },
 {
-pos = (-164,300);
+pos = (-110,210);
 ref = caroncomb;
 }
 );
-width = 616;
+width = 380;
 }
 );
-unicode = 489;
 }

@@ -11,7 +11,7 @@ ref = l;
 },
 {
 pos = (-175,0);
-ref = commaaccentcomb;
+ref = commaaccentcomb.loclMAH;
 }
 );
 width = 220;
@@ -24,7 +24,7 @@ ref = l;
 },
 {
 pos = (-145,0);
-ref = commaaccentcomb;
+ref = commaaccentcomb.loclMAH;
 }
 );
 width = 280;

@@ -1,15 +1,15 @@
 {
-glyphname = tcaron.ss03;
+glyphname = tdotbelow.cv03;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-ref = t.ss03;
+ref = t.cv03;
 },
 {
-pos = (-140,210);
-ref = caroncomb;
+pos = (-118,0);
+ref = dotbelowcomb;
 }
 );
 width = 330;
@@ -18,11 +18,11 @@ width = 330;
 layerId = m002;
 shapes = (
 {
-ref = t.ss03;
+ref = t.cv03;
 },
 {
-pos = (-110,210);
-ref = caroncomb;
+pos = (-81,0);
+ref = dotbelowcomb;
 }
 );
 width = 380;

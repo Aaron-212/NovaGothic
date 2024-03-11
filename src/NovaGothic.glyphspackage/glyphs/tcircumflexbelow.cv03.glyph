@@ -1,11 +1,11 @@
 {
-glyphname = tcircumflexbelow.ss03;
+glyphname = tcircumflexbelow.cv03;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-ref = t.ss03;
+ref = t.cv03;
 },
 {
 pos = (-118,-42);
@@ -18,7 +18,7 @@ width = 330;
 layerId = m002;
 shapes = (
 {
-ref = t.ss03;
+ref = t.cv03;
 },
 {
 pos = (-81,0);

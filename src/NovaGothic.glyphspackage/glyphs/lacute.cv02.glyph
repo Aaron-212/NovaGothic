@@ -1,5 +1,5 @@
 {
-glyphname = Iacute.ss01;
+glyphname = lacute.cv02;
 kernLeft = l2;
 kernRight = l2;
 layers = (
@@ -7,27 +7,27 @@ layers = (
 layerId = m01;
 shapes = (
 {
-ref = I.ss01;
+ref = l.cv02;
 },
 {
-pos = (-170,210);
+pos = (-240,310);
 ref = acutecomb;
 }
 );
-width = 280;
+width = 200;
 },
 {
 layerId = m002;
 shapes = (
 {
-ref = I.ss01;
+ref = l.cv02;
 },
 {
-pos = (-150,210);
+pos = (-210,310);
 ref = acutecomb;
 }
 );
-width = 320;
+width = 230;
 }
 );
 }

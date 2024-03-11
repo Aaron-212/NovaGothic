@@ -42,8 +42,15 @@ languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn MAH;
 languagesystem latn NLD;
+
+languagesystem cyrl dflt;
+languagesystem cyrl BGR;
 ";
 name = Languagesystems;
+},
+{
+code = "";
+name = name;
 }
 );
 features = (
@@ -51,21 +58,30 @@ features = (
 automatic = 1;
 code = "feature locl;
 feature zero;
-feature ss01;
-feature ss02;
-feature ss03;
 feature calt;
+feature cv01;
+feature cv02;
+feature cv03;
+feature cv04;
 ";
 tag = aalt;
 },
 {
 automatic = 1;
 code = "lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
-	@CombiningNonTopAccents = [brevebelowcomb cedillacomb circumflexbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb];
+	@CombiningTopAccents = [acutecomb brevecomb candraBinducomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [brevebelowcomb cedillacomb circumflexbelowcomb dieresisbelowcomb dotbelowcomb doublemacronbelowcomb macronbelowcomb ogonekcomb ringbelowcomb horncomb];
 	sub [i j]' @CombiningTopAccents by [idotless jdotless];
 	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
 } ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	lookupflag 0;
+	sub acutecomb macroncomb by acutecomb_macroncomb;
+	sub gravecomb macroncomb by gravecomb_macroncomb;
+	sub macroncomb acutecomb by macroncomb_acutecomb;
+	sub macroncomb gravecomb by macroncomb_gravecomb;
+} ccmp_Other_2;
 
 lookup ccmp_latn_1 {
 	lookupflag 0;
@@ -146,6 +162,12 @@ lookup locl_latn_3 {
 	sub iacute j' by jacute;
 	sub Iacute J' by Jacute;
 } locl_latn_3;
+
+lookup locl_cyrl_0 {
+	script cyrl;
+	language BGR;
+	sub ka-cy by ka-cy.loclBGR;
+} locl_cyrl_0;
 ";
 tag = locl;
 },
@@ -156,66 +178,52 @@ code = "sub zero by zero.zero;
 tag = zero;
 },
 {
-automatic = 1;
-code = "sub I by I.ss01;
-sub Iacute by Iacute.ss01;
-sub Icaron by Icaron.ss01;
-sub Icircumflex by Icircumflex.ss01;
-sub Idieresis by Idieresis.ss01;
-sub Idotaccent by Idotaccent.ss01;
-sub Igrave by Igrave.ss01;
-sub Imacron by Imacron.ss01;
-";
-labels = (
-{
-language = dflt;
-value = "Seriffed Uppercase I";
-}
-);
-tag = ss01;
-},
-{
-automatic = 1;
-code = "sub l by l.ss02;
-sub lacute by lacute.ss02;
-sub lcaron by lcaron.ss02;
-sub ldotbelow by ldotbelow.ss02;
-sub ldotbelowmacron by ldotbelowmacron.ss02;
-sub lmacronbelow by lmacronbelow.ss02;
-sub lslash by lslash.ss02;
-";
-labels = (
-{
-language = dflt;
-value = "Tailed Lowercase L";
-}
-);
-tag = ss02;
-},
-{
-automatic = 1;
-code = "sub t by t.ss03;
-sub tcaron by tcaron.ss03;
-sub tcircumflexbelow by tcircumflexbelow.ss03;
-sub tcommaaccent by tcommaaccent.ss03;
-sub tdieresis by tdieresis.ss03;
-sub tdotbelow by tdotbelow.ss03;
-sub tmacronbelow by tmacronbelow.ss03;
-";
-labels = (
-{
-language = dflt;
-value = "Tailed Lowercase T";
-}
-);
-tag = ss03;
-},
-{
 code = "@numbers = [zero zero.zero one two three four five six seven eight nine];
 
 sub @numbers colon' @numbers by colon.centered;
 ";
 tag = calt;
+},
+{
+automatic = 1;
+code = "sub I by I.cv01;
+sub Iacute by Iacute.cv01;
+sub Icaron by Icaron.cv01;
+sub Icircumflex by Icircumflex.cv01;
+sub Idieresis by Idieresis.cv01;
+sub Idotaccent by Idotaccent.cv01;
+sub Igrave by Igrave.cv01;
+sub Imacron by Imacron.cv01;
+";
+tag = cv01;
+},
+{
+automatic = 1;
+code = "sub l by l.cv02;
+sub lacute by lacute.cv02;
+sub lcaron by lcaron.cv02;
+sub ldotbelow by ldotbelow.cv02;
+sub ldotbelowmacron by ldotbelowmacron.cv02;
+sub lmacronbelow by lmacronbelow.cv02;
+sub lslash by lslash.cv02;
+";
+tag = cv02;
+},
+{
+automatic = 1;
+code = "sub t by t.cv03;
+sub tcaron by tcaron.cv03;
+sub tcircumflexbelow by tcircumflexbelow.cv03;
+sub tcommaaccent by tcommaaccent.cv03;
+sub tdieresis by tdieresis.cv03;
+sub tdotbelow by tdotbelow.cv03;
+sub tmacronbelow by tmacronbelow.cv03;
+";
+tag = cv03;
+},
+{
+code = "sub colon by colon.centered;";
+tag = cv04;
 }
 );
 fontMaster = (

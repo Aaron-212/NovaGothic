@@ -9,7 +9,7 @@ ref = n;
 },
 {
 pos = (15,50);
-ref = commaaccentcomb;
+ref = commaaccentcomb.loclMAH;
 }
 );
 width = 600;
@@ -22,7 +22,7 @@ ref = n;
 },
 {
 pos = (24,20);
-ref = commaaccentcomb;
+ref = commaaccentcomb.loclMAH;
 }
 );
 width = 615;

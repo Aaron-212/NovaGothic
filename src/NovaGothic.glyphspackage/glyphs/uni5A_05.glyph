@@ -1,0 +1,15 @@
+{
+export = 0;
+glyphname = uni5A05;
+layers = (
+{
+layerId = m01;
+width = 1000;
+},
+{
+layerId = m002;
+width = 1000;
+}
+);
+unicode = 23045;
+}

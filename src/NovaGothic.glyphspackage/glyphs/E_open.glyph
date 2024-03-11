@@ -1,0 +1,28 @@
+{
+glyphname = Eopen;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (520,0);
+ref = three;
+scale = (-1,1);
+}
+);
+width = 520;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (560,0);
+ref = three;
+scale = (-1,1);
+}
+);
+width = 560;
+}
+);
+unicode = 400;
+}

@@ -1,0 +1,42 @@
+{
+glyphname = "gamma-latin";
+layers = (
+{
+background = {
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(150,500,l),
+(300,200,l),
+(450,500,l)
+);
+},
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(450,-100,l),
+(300,200,l),
+(150,-100,l)
+);
+}
+);
+};
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 611;
+}

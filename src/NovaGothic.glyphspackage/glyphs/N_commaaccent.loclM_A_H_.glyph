@@ -8,11 +8,11 @@ shapes = (
 ref = N;
 },
 {
-pos = (3,80);
+pos = (13,80);
 ref = commaaccentcomb.loclMAH;
 }
 );
-width = 600;
+width = 620;
 },
 {
 layerId = m002;

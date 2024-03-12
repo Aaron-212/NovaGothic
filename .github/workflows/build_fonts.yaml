@@ -62,7 +62,7 @@ jobs:
         run: |
           GITSHA=${{ github.sha }}
           VERSION=$(cat version.txt)
-          echo "novagothic_version=${VERSION}-${GITSHA:0:10}" >> $GITHUB_ENV
+          echo "novagothic_version=${VERSION}-${GITSHA:0:6}" >> $GITHUB_ENV
 
       - name: make build
         run: |

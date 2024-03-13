@@ -46,19 +46,24 @@ Though untested elsewhere, scripts may still work.
 
 **Setup**:
 
-1. To install Python dependencies:
+To install Python dependencies:
 ```sh
 make init
 ```
 
-2. To build the fonts:
+To build the fonts:
 ```sh
 make build
 ```
 
-3. Optional: To zip up all font files:
+To zip up all font files:
 ```sh
 make zip
+```
+
+To generate UFO masters:
+```sh
+make ufo
 ```
 
 ## Roadmap and Current Focus

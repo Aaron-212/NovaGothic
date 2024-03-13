@@ -7,6 +7,10 @@ help:
 	@echo "  make zip:  Zip all fonts into a zip"
 	@echo
 
+init: requirements.txt
+	pip install -Ur requirements.txt
+	touch init.stamp
+
 build: build.stamp
 
 build.stamp: init.stamp
@@ -15,9 +19,10 @@ build.stamp: init.stamp
 	python misc/scripts/gen_woff2.py
 	touch build.stamp
 
-init: requirements.txt
-	pip install -Ur requirements.txt
-	touch init.stamp
+ufo: ufo.stamp
+
+ufo.stamp: init.stamp
+	fontmake -f src/NovaGothic.glyphspackage -o ufo --output-dir fonts-temp/master-ufo
 
 zip: build.stamp
 	cp -rf fonts NovaGothic
@@ -26,7 +31,9 @@ zip: build.stamp
 
 clean:
 	rm -rf fonts
+	rm -rf fonts-temp
 	rm build.stamp
+	rm ufo.stamp
 
 update:
 	pip install -Ur requirements.txt

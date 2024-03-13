@@ -1,0 +1,54 @@
+{
+export = 0;
+glyphname = "tusmall-kata";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(601,400,l),
+(564,159,o),
+(427,16,o),
+(218,-18,cs)
+);
+},
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(197,330,l),
+(275,149,l)
+);
+},
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(327,373,l),
+(406,192,l)
+);
+}
+);
+vertOrigin = 245;
+vertWidth = 773;
+width = 800;
+},
+{
+layerId = m002;
+width = 1000;
+}
+);
+unicode = 12483;
+}

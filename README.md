@@ -65,7 +65,6 @@ make zip
 
 ### Known Issues
 
-- Visual awkwardness in both uppercase and lowercase `S`
 - Bad sidebearings for certain glyphs
 - Insufficient kerning pairs
 
@@ -80,3 +79,4 @@ make zip
 - Full IPA support
 - Extensive ligature options
 - Japanese, Korean, and CJK Ideographs
+- Homebrew Install command / Google Fonts

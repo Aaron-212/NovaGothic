@@ -1,0 +1,41 @@
+{
+export = 0;
+glyphname = "go-kata";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "ko-kata";
+},
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(795,751,l),
+(860,621,l)
+);
+},
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(894,794,l),
+(959,664,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = m002;
+width = 1000;
+}
+);
+unicode = 12468;
+}

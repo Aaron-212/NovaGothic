@@ -9,11 +9,11 @@ shapes = (
 ref = K;
 },
 {
-pos = (-20,130);
+pos = (-40,130);
 ref = caroncomb;
 }
 );
-width = 622;
+width = 602;
 },
 {
 layerId = m002;

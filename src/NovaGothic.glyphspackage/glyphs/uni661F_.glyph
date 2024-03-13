@@ -1,0 +1,92 @@
+{
+export = 0;
+glyphname = uni661F;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 1;
+nodes = (
+(196,467,l),
+(806,467,l),
+(806,767,l),
+(196,767,l)
+);
+},
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(217,620,l),
+(785,620,l)
+);
+},
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(259,397,l),
+(220,301,o),
+(153,223,o),
+(79,162,cs)
+);
+},
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(205,288,l),
+(854,288,l)
+);
+},
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(178,126,l),
+(824,126,l)
+);
+},
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(78,-34,l),
+(924,-34,l)
+);
+},
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(501,412,l),
+(501,-34,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = m002;
+width = 1000;
+}
+);
+unicode = 26143;
+}

@@ -1,0 +1,52 @@
+{
+export = 0;
+glyphname = "si-kata";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(256,710,l),
+(526,609,l)
+);
+},
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(195,488,l),
+(465,387,l)
+);
+},
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(816,590,l),
+(697,214,o),
+(516,68,o),
+(196,-18,cs)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = m002;
+width = 1000;
+}
+);
+unicode = 12471;
+}

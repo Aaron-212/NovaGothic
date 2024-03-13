@@ -1,0 +1,35 @@
+{
+glyphname = gstroke;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = g;
+},
+{
+alignment = -1;
+pos = (250,0);
+ref = hyphen;
+}
+);
+width = 680;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = g;
+},
+{
+pos = (250,0);
+ref = hyphen;
+}
+);
+width = 710;
+}
+);
+unicode = 485;
+}

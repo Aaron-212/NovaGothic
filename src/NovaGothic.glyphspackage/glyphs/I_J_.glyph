@@ -9,11 +9,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (140,0);
+pos = (160,0);
 ref = J;
 }
 );
-width = 740;
+width = 760;
 },
 {
 layerId = m002;

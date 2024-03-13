@@ -1,0 +1,41 @@
+{
+export = 0;
+glyphname = "ba-kata";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "ha-kata";
+},
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(685,749,l),
+(750,619,l)
+);
+},
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(784,792,l),
+(849,662,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = m002;
+width = 1000;
+}
+);
+unicode = 12496;
+}

@@ -21,7 +21,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (15,190);
+pos = (5,190);
 ref = hookabovecomb;
 }
 );

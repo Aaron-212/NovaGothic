@@ -14,7 +14,7 @@ shapes = (
 ref = E;
 }
 );
-width = 600;
+width = 560;
 },
 {
 anchors = (

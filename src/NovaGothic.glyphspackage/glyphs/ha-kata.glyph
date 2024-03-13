@@ -1,0 +1,43 @@
+{
+export = 0;
+glyphname = "ha-kata";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(350,700,l),
+(330,441,o),
+(261,173,o),
+(135,-18,cs)
+);
+},
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(566,699,l),
+(674,526,o),
+(789,243,o),
+(841,-24,cs)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = m002;
+width = 1000;
+}
+);
+unicode = 12495;
+}

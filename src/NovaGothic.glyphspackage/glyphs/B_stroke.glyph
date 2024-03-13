@@ -1,0 +1,36 @@
+{
+glyphname = Bstroke;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (40,0);
+ref = B;
+},
+{
+pos = (-130,-60);
+ref = hyphen;
+}
+);
+width = 640;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = B;
+},
+{
+pos = (-110,-40);
+ref = hyphen;
+}
+);
+width = 670;
+}
+);
+unicode = 579;
+}

@@ -1,0 +1,30 @@
+{
+export = 0;
+glyphname = "no-kata";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(773,713,l),
+(704,374,o),
+(474,119,o),
+(184,-18,cs)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = m002;
+width = 1000;
+}
+);
+unicode = 12494;
+}

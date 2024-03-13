@@ -1,0 +1,44 @@
+{
+export = 0;
+glyphname = "ku-kata";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(430,758,l),
+(388,593,o),
+(317,476,o),
+(188,380,cs)
+);
+},
+{
+attr = {
+strokeHeight = 60;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(362,558,l),
+(809,558,l),
+(777,328,o),
+(559,46,o),
+(354,-27,c)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = m002;
+width = 1000;
+}
+);
+unicode = 12463;
+}

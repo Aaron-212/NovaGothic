@@ -12,7 +12,7 @@ pos = (190,201);
 ref = acutecomb;
 }
 );
-width = 600;
+width = 590;
 },
 {
 layerId = m002;

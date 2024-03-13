@@ -13,7 +13,7 @@ pos = (160,0);
 ref = J;
 }
 );
-width = 760;
+width = 750;
 },
 {
 layerId = m002;

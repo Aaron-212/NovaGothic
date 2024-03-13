@@ -9,7 +9,7 @@ alignment = -1;
 ref = g;
 },
 {
-pos = (36,-200);
+pos = (21,-200);
 ref = commaaccentcomb;
 }
 );

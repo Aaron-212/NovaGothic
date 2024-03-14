@@ -88,5 +88,6 @@ width = 570;
 }
 );
 metricLeft = "=H";
+metricRight = "=E";
 unicode = 76;
 }

@@ -10,11 +10,11 @@ shapes = (
 ref = I.cv01;
 },
 {
-pos = (-160,210);
+pos = (-180,210);
 ref = dieresiscomb;
 }
 );
-width = 280;
+width = 240;
 },
 {
 layerId = m002;

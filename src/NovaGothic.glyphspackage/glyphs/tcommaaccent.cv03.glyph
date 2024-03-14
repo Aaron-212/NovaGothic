@@ -8,11 +8,11 @@ shapes = (
 ref = t.cv03;
 },
 {
-pos = (-103,0);
+pos = (-163,0);
 ref = commaaccentcomb;
 }
 );
-width = 330;
+width = 200;
 },
 {
 layerId = m002;

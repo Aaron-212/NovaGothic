@@ -10,11 +10,11 @@ shapes = (
 ref = I.cv01;
 },
 {
-pos = (-150,210);
+pos = (-170,210);
 ref = gravecomb;
 }
 );
-width = 280;
+width = 240;
 },
 {
 layerId = m002;

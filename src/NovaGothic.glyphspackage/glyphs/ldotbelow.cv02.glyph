@@ -10,11 +10,11 @@ shapes = (
 ref = l.cv02;
 },
 {
-pos = (-196,0);
+pos = (-206,0);
 ref = dotbelowcomb;
 }
 );
-width = 210;
+width = 180;
 },
 {
 layerId = m002;

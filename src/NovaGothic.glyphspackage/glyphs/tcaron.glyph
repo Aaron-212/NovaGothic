@@ -23,7 +23,7 @@ alignment = -1;
 ref = t;
 },
 {
-pos = (160,60);
+pos = (140,60);
 ref = caroncomb.alt;
 }
 );

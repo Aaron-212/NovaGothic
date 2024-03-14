@@ -13,7 +13,7 @@ ref = B;
 ref = dotbelowcomb;
 }
 );
-width = 580;
+width = 570;
 },
 {
 layerId = m002;

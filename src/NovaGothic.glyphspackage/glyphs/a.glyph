@@ -1,7 +1,6 @@
 {
 glyphname = a;
 kernLeft = o;
-kernRight = i;
 layers = (
 {
 anchors = (
@@ -60,7 +59,7 @@ nodes = (
 );
 }
 );
-width = 630;
+width = 610;
 },
 {
 anchors = (
@@ -119,9 +118,10 @@ nodes = (
 );
 }
 );
-width = 619;
+width = 629;
 }
 );
 metricLeft = "=o";
+metricRight = "=n";
 unicode = 97;
 }

@@ -13,7 +13,7 @@ pos = (-5,10);
 ref = caroncomb;
 }
 );
-width = 529;
+width = 504;
 },
 {
 layerId = m002;

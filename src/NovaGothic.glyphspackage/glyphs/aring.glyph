@@ -14,7 +14,7 @@ pos = (-5,10);
 ref = ringcomb;
 }
 );
-width = 630;
+width = 610;
 },
 {
 layerId = m002;

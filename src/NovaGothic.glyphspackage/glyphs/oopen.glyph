@@ -13,12 +13,12 @@ pos = (300,250);
 layerId = m01;
 shapes = (
 {
-pos = (529,0);
+pos = (504,0);
 ref = c;
 scale = (-1,1);
 }
 );
-width = 529;
+width = 504;
 },
 {
 guides = (

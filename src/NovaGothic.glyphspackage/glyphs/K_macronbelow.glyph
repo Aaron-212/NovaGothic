@@ -13,7 +13,7 @@ pos = (-20,30);
 ref = macronbelowcomb;
 }
 );
-width = 602;
+width = 582;
 },
 {
 layerId = m002;

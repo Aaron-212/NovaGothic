@@ -8,11 +8,11 @@ shapes = (
 ref = r;
 },
 {
-pos = (-175,0);
+pos = (-205,0);
 ref = macronbelowcomb;
 }
 );
-width = 510;
+width = 420;
 },
 {
 layerId = m002;
@@ -21,11 +21,11 @@ shapes = (
 ref = r;
 },
 {
-pos = (-155,0);
+pos = (-175,0);
 ref = macronbelowcomb;
 }
 );
-width = 497;
+width = 457;
 }
 );
 unicode = 7775;

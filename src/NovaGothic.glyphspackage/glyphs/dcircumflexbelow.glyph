@@ -1,7 +1,7 @@
 {
 glyphname = dcircumflexbelow;
 kernLeft = o;
-kernRight = l;
+kernRight = H;
 layers = (
 {
 layerId = m01;
@@ -10,11 +10,11 @@ shapes = (
 ref = d;
 },
 {
-pos = (13,-42);
+pos = (-2,-42);
 ref = circumflexbelowcomb;
 }
 );
-width = 625;
+width = 610;
 },
 {
 layerId = m002;
@@ -27,7 +27,7 @@ pos = (-5,0);
 ref = circumflexbelowcomb;
 }
 );
-width = 649;
+width = 629;
 }
 );
 unicode = 7699;

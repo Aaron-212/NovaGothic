@@ -8,7 +8,7 @@ shapes = (
 ref = oslash;
 },
 {
-pos = (-10,10);
+pos = (-15,10);
 ref = acutecomb;
 }
 );

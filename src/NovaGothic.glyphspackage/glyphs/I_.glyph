@@ -1,25 +1,25 @@
 {
 glyphname = I;
-kernLeft = l;
+kernLeft = H;
 kernRight = l;
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (110,0);
+pos = (90,0);
 },
 {
 name = ogonek;
-pos = (110,0);
+pos = (90,0);
 },
 {
 name = top;
-pos = (110,700);
+pos = (90,700);
 },
 {
 name = topleft;
-pos = (20,700);
+pos = (0,700);
 }
 );
 layerId = m01;
@@ -27,14 +27,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(140,700,l),
-(80,700,l),
-(80,0,l),
-(140,0,l)
+(120,700,l),
+(60,700,l),
+(60,0,l),
+(120,0,l)
 );
 }
 );
-width = 220;
+width = 180;
 },
 {
 anchors = (
@@ -70,5 +70,7 @@ nodes = (
 width = 240;
 }
 );
+metricLeft = "=H";
+metricRight = "=H";
 unicode = 73;
 }

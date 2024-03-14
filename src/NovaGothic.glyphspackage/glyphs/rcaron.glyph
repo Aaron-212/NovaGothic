@@ -8,11 +8,11 @@ shapes = (
 ref = r;
 },
 {
-pos = (-45,10);
+pos = (-75,10);
 ref = caroncomb;
 }
 );
-width = 510;
+width = 420;
 },
 {
 layerId = m002;
@@ -21,11 +21,11 @@ shapes = (
 ref = r;
 },
 {
-pos = (-45,10);
+pos = (-65,10);
 ref = caroncomb;
 }
 );
-width = 497;
+width = 457;
 }
 );
 unicode = 345;

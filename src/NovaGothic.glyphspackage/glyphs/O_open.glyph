@@ -57,12 +57,12 @@ pos = (400,350);
 layerId = m002;
 shapes = (
 {
-pos = (708,0);
+pos = (711,0);
 ref = C;
 scale = (-1,1);
 }
 );
-width = 708;
+width = 711;
 }
 );
 unicode = 390;

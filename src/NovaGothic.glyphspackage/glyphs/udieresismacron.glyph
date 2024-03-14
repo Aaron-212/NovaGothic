@@ -8,15 +8,15 @@ shapes = (
 ref = u;
 },
 {
-pos = (-10,0);
+pos = (-30,0);
 ref = dieresiscomb;
 },
 {
-pos = (-10,170);
+pos = (-30,170);
 ref = macroncomb;
 }
 );
-width = 580;
+width = 540;
 },
 {
 layerId = m002;
@@ -25,15 +25,15 @@ shapes = (
 ref = u;
 },
 {
-pos = (6,0);
+pos = (-14,0);
 ref = dieresiscomb;
 },
 {
-pos = (6,230);
+pos = (-14,230);
 ref = macroncomb;
 }
 );
-width = 600;
+width = 575;
 }
 );
 unicode = 470;

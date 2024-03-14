@@ -94,7 +94,7 @@ nodes = (
 width = 680;
 }
 );
-metricLeft = "=|H";
-metricRight = "=|H";
+metricLeft = "=H";
+metricRight = "=H";
 unicode = 78;
 }

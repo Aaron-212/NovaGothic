@@ -10,7 +10,7 @@ ref = P;
 scale = (1,-1);
 }
 );
-width = 600;
+width = 580;
 },
 {
 layerId = m002;

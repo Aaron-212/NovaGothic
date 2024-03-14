@@ -7,11 +7,11 @@ layerId = m01;
 shapes = (
 {
 angle = 180;
-pos = (600,500);
+pos = (595,500);
 ref = e;
 }
 );
-width = 600;
+width = 595;
 },
 {
 layerId = m002;

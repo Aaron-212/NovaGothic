@@ -8,7 +8,7 @@ shapes = (
 ref = ymacron;
 }
 );
-width = 520;
+width = 460;
 },
 {
 layerId = m002;

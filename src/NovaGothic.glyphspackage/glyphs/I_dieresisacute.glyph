@@ -10,15 +10,15 @@ shapes = (
 ref = I;
 },
 {
-pos = (-190,200);
+pos = (-210,200);
 ref = dieresiscomb;
 },
 {
-pos = (-200,370);
+pos = (-220,370);
 ref = acutecomb;
 }
 );
-width = 220;
+width = 180;
 },
 {
 layerId = m002;

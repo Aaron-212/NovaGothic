@@ -25,12 +25,12 @@ pos = (20,700);
 layerId = m01;
 shapes = (
 {
-pos = (560,0);
+pos = (540,0);
 ref = E;
 scale = (-1,1);
 }
 );
-width = 560;
+width = 540;
 },
 {
 anchors = (

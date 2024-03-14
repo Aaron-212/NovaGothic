@@ -8,10 +8,11 @@ shapes = (
 ref = "ie-cy";
 },
 {
+pos = (-5,0);
 ref = "brevecomb-cy";
 }
 );
-width = 600;
+width = 595;
 },
 {
 layerId = m002;

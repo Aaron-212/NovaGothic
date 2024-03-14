@@ -1,7 +1,7 @@
 {
 glyphname = E;
 kernLeft = H;
-kernRight = H;
+kernRight = E;
 layers = (
 {
 anchors = (
@@ -61,7 +61,7 @@ nodes = (
 );
 }
 );
-width = 560;
+width = 540;
 },
 {
 anchors = (
@@ -121,10 +121,9 @@ nodes = (
 );
 }
 );
-width = 590;
+width = 570;
 }
 );
-metricLeft = "=|H";
-metricRight = "=|H";
+metricLeft = "=H";
 unicode = 69;
 }

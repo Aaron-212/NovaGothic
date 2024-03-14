@@ -14,7 +14,7 @@ pos = (-20,201);
 ref = dotaccentcomb;
 }
 );
-width = 560;
+width = 540;
 },
 {
 layerId = m002;

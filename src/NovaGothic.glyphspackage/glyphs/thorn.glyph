@@ -1,5 +1,7 @@
 {
 glyphname = thorn;
+kernLeft = H;
+kernRight = o;
 layers = (
 {
 anchors = (

@@ -8,7 +8,7 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (-15,10);
+pos = (-20,10);
 ref = hookabovecomb;
 }
 );

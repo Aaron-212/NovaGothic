@@ -8,15 +8,15 @@ shapes = (
 ref = R;
 },
 {
-pos = (0,40);
+pos = (-20,40);
 ref = dotbelowcomb;
 },
 {
-pos = (-30,200);
+pos = (-50,200);
 ref = macroncomb;
 }
 );
-width = 600;
+width = 580;
 },
 {
 layerId = m002;

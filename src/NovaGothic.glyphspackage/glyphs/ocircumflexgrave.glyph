@@ -8,11 +8,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (0,10);
+pos = (-5,10);
 ref = circumflexcomb_gravecomb;
 }
 );
-width = 600;
+width = 590;
 },
 {
 layerId = m002;

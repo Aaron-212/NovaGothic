@@ -10,15 +10,15 @@ shapes = (
 ref = l.cv02;
 },
 {
-pos = (-216,0);
+pos = (-196,0);
 ref = dotbelowcomb;
 },
 {
-pos = (-230,310);
+pos = (-210,310);
 ref = macroncomb;
 }
 );
-width = 200;
+width = 210;
 },
 {
 layerId = m002;

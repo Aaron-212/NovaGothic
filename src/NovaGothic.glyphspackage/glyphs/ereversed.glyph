@@ -6,12 +6,12 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (600,0);
+pos = (595,0);
 ref = e;
 scale = (-1,1);
 }
 );
-width = 600;
+width = 595;
 },
 {
 layerId = m002;

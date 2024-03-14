@@ -1,5 +1,7 @@
 {
 glyphname = Y;
+kernLeft = V;
+kernRight = V;
 layers = (
 {
 anchors = (
@@ -134,5 +136,7 @@ nodes = (
 width = 712;
 }
 );
+metricLeft = "=V";
+metricRight = "=V";
 unicode = 89;
 }

@@ -8,11 +8,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (30,-42);
+pos = (10,-42);
 ref = circumflexbelowcomb;
 }
 );
-width = 660;
+width = 645;
 },
 {
 layerId = m002;

@@ -22,11 +22,11 @@ shapes = (
 ref = K;
 },
 {
-pos = (15,50);
+pos = (25,50);
 ref = commaaccentcomb;
 }
 );
-width = 705;
+width = 715;
 }
 );
 unicode = 310;

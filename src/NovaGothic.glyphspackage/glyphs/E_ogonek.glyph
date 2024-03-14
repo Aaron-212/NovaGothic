@@ -12,7 +12,7 @@ pos = (170,0);
 ref = ogonekcomb;
 }
 );
-width = 560;
+width = 540;
 },
 {
 layerId = m002;

@@ -16,7 +16,7 @@ shapes = (
 ref = o;
 }
 );
-width = 600;
+width = 590;
 },
 {
 anchors = (

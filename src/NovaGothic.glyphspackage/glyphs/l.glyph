@@ -1,25 +1,25 @@
 {
 glyphname = l;
-kernLeft = l;
-kernRight = l;
+kernLeft = H;
+kernRight = H;
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (110,0);
+pos = (80,0);
 },
 {
 name = center;
-pos = (110,400);
+pos = (80,400);
 },
 {
 name = top;
-pos = (110,810);
+pos = (80,810);
 },
 {
 name = topright;
-pos = (200,800);
+pos = (170,800);
 }
 );
 layerId = m01;
@@ -27,32 +27,32 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(140,800,l),
-(80,800,l),
-(80,0,l),
-(140,0,l)
+(110,800,l),
+(50,800,l),
+(50,0,l),
+(110,0,l)
 );
 }
 );
-width = 220;
+width = 160;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (140,0);
+pos = (120,0);
 },
 {
 name = center;
-pos = (140,400);
+pos = (120,400);
 },
 {
 name = top;
-pos = (140,810);
+pos = (120,810);
 },
 {
 name = topright;
-pos = (260,800);
+pos = (240,800);
 }
 );
 layerId = m002;
@@ -60,14 +60,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(200,800,l),
-(80,800,l),
-(80,0,l),
-(200,0,l)
+(180,800,l),
+(60,800,l),
+(60,0,l),
+(180,0,l)
 );
 }
 );
-width = 280;
+width = 240;
 }
 );
 unicode = 108;

@@ -1,5 +1,6 @@
 {
 glyphname = F;
+kernLeft = H;
 layers = (
 {
 layerId = m01;
@@ -32,7 +33,7 @@ nodes = (
 );
 }
 );
-width = 560;
+width = 540;
 },
 {
 layerId = m002;
@@ -68,5 +69,7 @@ nodes = (
 width = 590;
 }
 );
+metricLeft = "=H";
+metricRight = "=E";
 unicode = 70;
 }

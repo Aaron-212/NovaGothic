@@ -25,7 +25,7 @@ ref = B;
 ref = dotbelowcomb;
 }
 );
-width = 610;
+width = 620;
 }
 );
 unicode = 7684;

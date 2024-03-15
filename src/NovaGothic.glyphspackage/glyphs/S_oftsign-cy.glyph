@@ -21,7 +21,7 @@ ref = P;
 scale = (1,-1);
 }
 );
-width = 630;
+width = 610;
 }
 );
 unicode = 1068;

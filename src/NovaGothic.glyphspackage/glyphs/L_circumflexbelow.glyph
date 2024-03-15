@@ -13,7 +13,7 @@ pos = (-20,-42);
 ref = circumflexbelowcomb;
 }
 );
-width = 580;
+width = 540;
 },
 {
 layerId = m002;

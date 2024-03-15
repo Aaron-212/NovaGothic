@@ -17,7 +17,7 @@ pos = (-210,200);
 ref = macroncomb;
 }
 );
-width = 580;
+width = 540;
 },
 {
 layerId = m002;

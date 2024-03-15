@@ -12,7 +12,7 @@ LEFT = 2
 
 def mapGroups(groups):  # => { glyphname => set(groupname, ...), ... }
   m = OrderedDict()
-  for groupname, glyphnames in groups.iteritems():
+  for groupname, glyphnames in groups.items():
     for glyphname in glyphnames:
       m.setdefault(glyphname, set()).add(groupname)
   return m
@@ -53,7 +53,7 @@ def printPairs(font, baseSide, baseSideGlyph, otherSideNames, args):
       suffix_lc = args.suffix
     else:
       if args.prefix and len(args.prefix) > 0:
-        s = unicode(args.prefix)
+        s = str(args.prefix)
         if s[0].isupper():
           prefix_uc = args.prefix
           prefix_lc = args.prefix.lower()
@@ -62,7 +62,7 @@ def printPairs(font, baseSide, baseSideGlyph, otherSideNames, args):
           prefix_lc = args.prefix
 
       if args.suffix and len(args.suffix) > 0:
-        s = unicode(args.suffix)
+        s = str(args.suffix)
         if s[0].isupper():
           suffix_uc = args.suffix
           suffix_lc = args.suffix.lower()
@@ -77,7 +77,7 @@ def printPairs(font, baseSide, baseSideGlyph, otherSideNames, args):
           otherGlyph = font[otherName]
         prefix = prefix_lc
         suffix = suffix_lc
-        if unicode(otherName[0]).isupper():
+        if str(otherName[0]).isupper():
           prefix = prefix_uc
           suffix = suffix_uc
         if baseSide == LEFT:
@@ -110,7 +110,7 @@ def samplesForGlyphnameR(font, groups, groupmap, kerning, glyphname, args):
 
 def _addLeftnames(groups, kerning, glyphname, leftnames, includeAll=True):
   # kerning : { leftName => {rightName => kernVal} }
-  for leftname, kern in kerning.iteritems():
+  for leftname, kern in kerning.items():
     if glyphname in kern:
       if leftname[0] == '@':
         for leftname2 in groups[leftname]:
@@ -206,8 +206,12 @@ def main():
   groupsFilename = os.path.join(args.fontPath, 'groups.plist')
   kerningFilename = os.path.join(args.fontPath, 'kerning.plist')
 
-  groups = plistlib.readPlist(groupsFilename)   # { groupName => [glyphName] }
-  kerning = plistlib.readPlist(kerningFilename) # { leftName => {rightName => kernVal} }
+  with open(groupsFilename, 'rb') as groupsFile:
+    groups = plistlib.load(groupsFile)   # { groupName => [glyphName] }
+
+  with open(kerningFilename, 'rb') as kerningFile:
+    kerning = plistlib.load(kerningFile) # { leftName => {rightName => kernVal} }
+
   groupmap = mapGroups(groups) # { glyphname => set(groupname, ...), ... }
 
   if not args.asLeft and not args.asRight:

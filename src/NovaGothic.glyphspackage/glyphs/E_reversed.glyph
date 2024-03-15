@@ -54,12 +54,12 @@ pos = (20,700);
 layerId = m002;
 shapes = (
 {
-pos = (590,0);
+pos = (570,0);
 ref = E;
 scale = (-1,1);
 }
 );
-width = 590;
+width = 570;
 }
 );
 unicode = 398;

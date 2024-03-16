@@ -47,10 +47,6 @@ languagesystem cyrl dflt;
 languagesystem cyrl BGR;
 ";
 name = Languagesystems;
-},
-{
-code = "";
-name = name;
 }
 );
 features = (
@@ -399,12 +395,16 @@ m01 = {
 "@MMK_L_f" = {
 "@MMK_R_o" = -10;
 };
+"@MMK_L_l" = {
+"@MMK_R_v" = -20;
+};
 "@MMK_L_l2" = {
 s = 0;
 };
 "@MMK_L_n" = {
 "@MMK_R_o" = -20;
 "@MMK_R_t" = -10;
+"@MMK_R_v" = -40;
 };
 "@MMK_L_o" = {
 "@MMK_R_l" = 0;
@@ -450,7 +450,13 @@ a = {
 };
 k = {
 "@MMK_R_o" = -40;
+"@MMK_R_v" = -30;
+g = -30;
 s = -30;
+};
+s = {
+"@MMK_R_o" = -10;
+"@MMK_R_v" = -30;
 };
 };
 m002 = {
@@ -484,6 +490,9 @@ S = -40;
 "@MMK_L_f" = {
 "@MMK_R_o" = -10;
 };
+"@MMK_L_l" = {
+"@MMK_R_v" = -20;
+};
 "@MMK_L_o" = {
 "@MMK_R_t" = -10;
 "@MMK_R_v" = -50;
@@ -496,6 +505,8 @@ S = -40;
 "@MMK_R_o" = -10;
 };
 "@MMK_L_v" = {
+"@MMK_R_j" = -30;
+"@MMK_R_n" = -20;
 "@MMK_R_o" = -50;
 p = -20;
 };
@@ -525,9 +536,16 @@ U = {
 "@MMK_R_A" = -40;
 "@MMK_R_H" = 20;
 };
+j = {
+"@MMK_R_v" = -20;
+};
 k = {
 "@MMK_R_o" = -60;
 s = -30;
+};
+s = {
+"@MMK_R_j" = -20;
+"@MMK_R_v" = -20;
 };
 };
 };

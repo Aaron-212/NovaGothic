@@ -23,11 +23,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (-160,0);
+pos = (-180,0);
 ref = dotbelowcomb;
 }
 );
-width = 280;
+width = 240;
 }
 );
 unicode = 7735;

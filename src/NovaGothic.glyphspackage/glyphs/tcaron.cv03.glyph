@@ -21,11 +21,11 @@ shapes = (
 ref = t.cv03;
 },
 {
-pos = (-110,210);
+pos = (-130,210);
 ref = caroncomb;
 }
 );
-width = 380;
+width = 340;
 }
 );
 }

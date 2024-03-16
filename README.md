@@ -27,8 +27,8 @@ Nova Gothic comes packed with a range of OpenType features designed to enhance y
 
 For the latest release, head over to the [Nova Gothic Release Page](https://github.com/Aaron-212/NovaGothic/releases). Download the zip, extract it, and you'll find the font distributed in two formats:
 
-- **Static**: Includes four OTFs for different weights.
-- **Variable**: Contains a variable OTF and a variable WOFF2 file for more flexibility in weight.
+- **Static**: Includes four TTFs for different weights.
+- **Variable**: Contains a variable TTF and a variable WOFF2 file for more flexibility in weight.
 
 Choose according to your needs and follow the installation procedure for your system.
 

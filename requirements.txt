@@ -1,3 +1,5 @@
 fontmake
 gftools
 fonttools
+fontbakery
+shaperglot

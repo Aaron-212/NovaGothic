@@ -1,7 +1,8 @@
 # From https://github.com/rsms/inter/blob/master/misc/tools/kernsample.py
 
 from __future__ import print_function
-import os, sys, plistlib
+import os
+import plistlib
 from collections import OrderedDict
 from argparse import ArgumentParser
 from defcon import Font

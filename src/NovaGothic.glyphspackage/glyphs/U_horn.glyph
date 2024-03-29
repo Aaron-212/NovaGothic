@@ -9,7 +9,7 @@ alignment = -1;
 ref = U;
 },
 {
-pos = (189,70);
+pos = (179,70);
 ref = horncomb;
 }
 );

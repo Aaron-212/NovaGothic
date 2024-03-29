@@ -25,7 +25,7 @@ pos = (0,20);
 ref = brevecomb_gravecomb;
 }
 );
-width = 629;
+width = 619;
 }
 );
 unicode = 7857;

@@ -89,7 +89,7 @@ ref = v;
 scale = (1,-1);
 }
 );
-width = 586;
+width = 546;
 }
 );
 unicode = 652;

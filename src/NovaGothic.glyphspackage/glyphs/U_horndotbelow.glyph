@@ -8,6 +8,7 @@ shapes = (
 ref = Uhorn;
 },
 {
+pos = (-10,0);
 ref = dotbelowcomb;
 }
 );

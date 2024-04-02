@@ -1,0 +1,110 @@
+{
+export = 0;
+glyphname = uni65A4;
+layers = (
+{
+layerId = m01;
+partSelection = {
+Width = 1;
+};
+shapes = (
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(803,770,l),
+(645,734,o),
+(419,713,o),
+(210,711,c),
+(210,376,ls),
+(210,193,o),
+(177,6,o),
+(93,-89,c)
+);
+},
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(235,456,l),
+(854,456,l)
+);
+},
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(610,465,l),
+(610,-100,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = m002;
+width = 1000;
+},
+{
+associatedMasterId = m01;
+layerId = "90465CD1-06CF-4126-8CE6-A3D0BFD068F4";
+name = Minimum;
+partSelection = {
+Width = 2;
+};
+shapes = (
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(899,770,l),
+(824,734,o),
+(722,713,o),
+(618,711,c),
+(618,336,ls),
+(618,177,o),
+(597,-6,o),
+(544,-89,c)
+);
+},
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(630,456,l),
+(923,456,l)
+);
+},
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(798,465,l),
+(798,-100,l)
+);
+}
+);
+width = 1000;
+}
+);
+partsSettings = (
+{
+bottomValue = 0;
+name = Width;
+topValue = 100;
+}
+);
+unicode = 26020;
+}

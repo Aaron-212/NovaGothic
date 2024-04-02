@@ -14,8 +14,10 @@ init: requirements.txt
 build: build.stamp
 
 build.stamp: init.stamp
-	fontmake -f src/NovaGothic.glyphspackage -o variable --output-path fonts/variable/NovaGothic[wght].otf
-	fontmake -i -f src/NovaGothic.glyphspackage -o ttf --output-dir fonts/static
+	fontmake -f src/NovaGothic.glyphspackage -o variable --output-path "fonts/variable/NovaGothic[wght].ttf" --filter DecomposeTransformedComponentsFilter
+	fontmake -f src/NovaGothic.glyphspackage -o variable-cff2 --output-path "fonts/variable/NovaGothic[wght].otf" --filter DecomposeTransformedComponentsFilter
+	fontmake -i -f src/NovaGothic.glyphspackage -o ttf --output-dir fonts/static --filter DecomposeTransformedComponentsFilter
+	fontmake -i -f src/NovaGothic.glyphspackage -o otf --output-dir fonts/static --filter DecomposeTransformedComponentsFilter 
 	python misc/scripts/gen_woff2.py
 	touch build.stamp
 

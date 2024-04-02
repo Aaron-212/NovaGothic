@@ -9,18 +9,9 @@ tag = wght;
 );
 customParameters = (
 {
-name = panose;
+name = fsType;
 value = (
-4,
-0,
-0,
-5,
-6,
-12,
-0,
-0,
-0,
-2
+3
 );
 }
 );
@@ -227,6 +218,16 @@ fontMaster = (
 axesValues = (
 200
 );
+customParameters = (
+{
+name = "CJK Guide";
+value = "90";
+},
+{
+name = "CJK Grid";
+value = "2";
+}
+);
 iconName = Light;
 id = m01;
 metricValues = (
@@ -267,10 +268,21 @@ stemValues = (
 60,
 60
 );
+visible = 1;
 },
 {
 axesValues = (
 800
+);
+customParameters = (
+{
+name = "CJK Guide";
+value = "90";
+},
+{
+name = "CJK Grid";
+value = "2";
+}
 );
 iconName = Bold;
 id = m002;
@@ -389,6 +401,9 @@ J = -20;
 "@MMK_R_v" = -20;
 J = -40;
 };
+"@MMK_L_U" = {
+"@MMK_R_J" = -20;
+};
 "@MMK_L_V" = {
 "@MMK_R_A" = -100;
 "@MMK_R_O" = -60;
@@ -439,7 +454,7 @@ C = {
 J = -30;
 };
 F = {
-"@MMK_R_A" = -40;
+"@MMK_R_A" = -60;
 J = -20;
 };
 G = {
@@ -452,6 +467,7 @@ J = -50;
 L = {
 "@MMK_R_V" = -130;
 J = -50;
+S = -40;
 U = -30;
 };
 P = {
@@ -489,9 +505,6 @@ s = -30;
 s = {
 "@MMK_R_o" = -10;
 "@MMK_R_v" = -30;
-};
-"@MMK_L_U" = {
-"@MMK_R_J" = -20;
 };
 };
 m002 = {
@@ -564,7 +577,7 @@ C = {
 J = -60;
 };
 F = {
-"@MMK_R_A" = -30;
+"@MMK_R_A" = -50;
 J = -50;
 };
 G = {
@@ -575,6 +588,7 @@ K = {
 };
 L = {
 "@MMK_R_J" = -30;
+S = -20;
 U = -40;
 };
 P = {
@@ -660,7 +674,7 @@ value = Aaron212;
 },
 {
 key = designerURL;
-value = "https://aaron212.top";
+value = "https://aaron212.top/";
 },
 {
 key = copyrights;
@@ -692,6 +706,10 @@ language = dflt;
 value = "Open-source, variable, gemotric Sans-serif font";
 }
 );
+},
+{
+key = vendorID;
+value = AARN;
 }
 );
 stems = (

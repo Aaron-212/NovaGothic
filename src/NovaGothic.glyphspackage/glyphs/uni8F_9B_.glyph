@@ -1,6 +1,6 @@
 {
 export = 0;
-glyphname = uni65B0;
+glyphname = uni8F9B;
 layers = (
 {
 layerId = m01;
@@ -12,8 +12,8 @@ strokeWidth = 60;
 };
 closed = 0;
 nodes = (
-(279,793,l),
-(308,709,l)
+(447,793,l),
+(502,669,l)
 );
 },
 {
@@ -23,8 +23,8 @@ strokeWidth = 60;
 };
 closed = 0;
 nodes = (
-(98,706,l),
-(507,706,l)
+(112,666,l),
+(872,666,l)
 );
 },
 {
@@ -34,8 +34,8 @@ strokeWidth = 60;
 };
 closed = 0;
 nodes = (
-(84,476,l),
-(520,476,l)
+(85,416,l),
+(897,416,l)
 );
 },
 {
@@ -44,34 +44,8 @@ strokeWidth = 60;
 };
 closed = 0;
 nodes = (
-(306,472,l),
-(306,13,ls),
-(306,-15,o),
-(267,-47,o),
-(234,-47,cs),
-(179,-47,l)
-);
-},
-{
-attr = {
-strokeWidth = 60;
-};
-closed = 0;
-nodes = (
-(202,219,l),
-(186,152,o),
-(156,90,o),
-(112,49,cs)
-);
-},
-{
-attr = {
-strokeWidth = 60;
-};
-closed = 0;
-nodes = (
-(411,213,l),
-(480,49,l)
+(499,412,l),
+(499,-100,ls)
 );
 },
 {
@@ -81,8 +55,8 @@ strokeWidth = 60;
 };
 closed = 0;
 nodes = (
-(110,301,l),
-(495,301,l)
+(135,201,l),
+(849,201,l)
 );
 },
 {
@@ -91,8 +65,8 @@ strokeWidth = 60;
 };
 closed = 0;
 nodes = (
-(178,700,l),
-(232,480,l)
+(254,660,l),
+(357,420,l)
 );
 },
 {
@@ -101,17 +75,9 @@ strokeWidth = 60;
 };
 closed = 0;
 nodes = (
-(428,700,l),
-(373,479,l)
+(732,660,l),
+(627,419,l)
 );
-},
-{
-alignment = -1;
-piece = {
-Width = 91.61524;
-};
-pos = (19,0);
-ref = uni65A4;
 }
 );
 width = 1000;
@@ -121,5 +87,5 @@ layerId = m002;
 width = 1000;
 }
 );
-unicode = 26032;
+unicode = 36763;
 }
